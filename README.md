@@ -10,7 +10,7 @@ Preparing the front end
 Setup the backend
 
 1. Import the KS-Backend maven project after opening Eclipse IDE.
-2. KitchenStoryApplication.java should be opened. 
+2. Phase4KitchenStoryApplication.java should be opened. 
 3. Right-click, then choose "Run as Java Application."
 
 Establishing the database
