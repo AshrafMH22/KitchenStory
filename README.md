@@ -1,7 +1,7 @@
 # KitchenStory
 
 Download or copy the repository's content. then adhere to the instructions provided below:
-#Install Angular , Mongo DB, Mongo DB Compass, Maven and eclipse to run the project smoothly
+#Install Angular , Mongo DB, Mongo DB Compass, Maven and Eclipse to run the project smoothly
 
 Preparing the front end
 1. After changing to KS-Frontend folder in project directory in terminal: paste: npm install into cmd.
